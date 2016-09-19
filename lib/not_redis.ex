@@ -1,0 +1,2 @@
+defmodule NotRedis do
+end
